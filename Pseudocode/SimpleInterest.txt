@@ -1,0 +1,7 @@
+		------Pseudocode for SimpleInterest------
+1.Start
+2.Read the input P,t and R.
+3.Calculate the Simple Interest
+	sI = P*T*R/100.
+4.print sI.
+5.Stop.
