@@ -1,0 +1,13 @@
+	----Pseudocode for Campus Leader-------
+1.Start.
+2.Set int credits = 0.
+3.Check the condition
+	if credits >= 7500
+		print Tera leader
+	else if credits < 7500 or credits >= 6000
+		print Gega leader
+	else if credits < 6000 or credits >= 4500
+		print Mega leader
+	else if credits < 4500
+		print Rising Star
+4.Stop.
