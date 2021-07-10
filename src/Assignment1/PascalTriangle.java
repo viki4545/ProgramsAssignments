@@ -18,7 +18,7 @@ public class PascalTriangle {
             int cst = 0;
             while(cst <= nst){
                 int res = forCombination(nst,cst);
-                System.out.print(res);
+                System.out.print(res + " ");
                 cst++;
             }
             System.out.println();
